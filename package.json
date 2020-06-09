@@ -1,0 +1,24 @@
+{
+  "name": "repoclonado",
+  "version": "1.0.0",
+  "description": "repo clonado de un tal jhom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequielmagi/repoclonado.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "who",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezequielmagi/repoclonado/issues"
+  },
+  "homepage": "https://github.com/ezequielmagi/repoclonado#readme"
+}
